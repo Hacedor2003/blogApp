@@ -1,0 +1,16 @@
+{
+  "name": "blogapp",
+  "version": "1.0.0",
+  "description": "Proyecto blog con Django",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Hacedor",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "blogApp"
+  }
+}
